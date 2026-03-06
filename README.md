@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left">Ola Mundo!!</h1>
 
-<!--
-**rm0ntoya/rm0ntoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 align="left">🚀 Builder, developer and digital entrepreneur from Brazil.</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">I like turning ideas into real products. My work is focused on building digital platforms, experimenting with new technologies and creating solutions that mix software, automation and business strategy.<br><br>I’m especially interested in projects that involve **AI, SaaS, automation, APIs and digital platforms**.</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/rm0ntoya/rm0ntoya/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
